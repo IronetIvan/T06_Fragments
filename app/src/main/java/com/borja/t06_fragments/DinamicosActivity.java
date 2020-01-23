@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.borja.t06_fragments.fragments.FragmentDinamicoDos;
+import com.borja.t06_fragments.fragments.FragmentDinamicoUno;
 import com.borja.t06_fragments.fragments.FragmentDinamicoUno;
 
 public class DinamicosActivity extends AppCompatActivity implements View.OnClickListener
