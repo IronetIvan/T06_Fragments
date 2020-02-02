@@ -1,14 +1,13 @@
 package com.borja.t06_fragments;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.borja.t06_fragments.fragments.FragmentDinamicoUno;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentTransaction;
+
+import com.borja.t06_fragments.fragments.FragmentDinamicoDos;
 import com.borja.t06_fragments.fragments.FragmentDinamicoUno;
 
 public class DinamicosActivity extends AppCompatActivity implements View.OnClickListener
